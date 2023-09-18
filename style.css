@@ -1,0 +1,22 @@
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: hwb(330 17% 80% / 0.412);
+    border-radius: 3px;
+}
+td{
+    border: 1px solid hsl(0, 0%, 3%);
+    padding: 10px;
+    margin: 10px;
+    font-size: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+
+}
+#result{
+    margin: 10px;
+    padding: 10px;
+    font-size: 2em;
+    text-align: right;
+    background-color: rgb(44, 41, 41);
+}
